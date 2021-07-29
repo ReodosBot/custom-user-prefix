@@ -1,0 +1,24 @@
+{
+  "name": "custom-user-prefix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReodosBot/custom-user-prefix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReodosBot/custom-user-prefix/issues"
+  },
+  "homepage": "https://github.com/ReodosBot/custom-user-prefix#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.12",
+    "quick.db": "^7.1.3"
+  }
+}
